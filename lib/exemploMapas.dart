@@ -20,7 +20,7 @@ class _MapasState extends State<Mapas> {
 
   @override
   Widget build(BuildContext context) {
-    print("oi mundo git ");
+    print("oi mundo git atualizando no Android Studio ");
     _suaLocalizacao();
     return Scaffold(
       appBar: AppBar(
