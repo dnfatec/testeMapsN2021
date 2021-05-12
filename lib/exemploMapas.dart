@@ -20,6 +20,7 @@ class _MapasState extends State<Mapas> {
 
   @override
   Widget build(BuildContext context) {
+    print("oi mundo git ");
     _suaLocalizacao();
     return Scaffold(
       appBar: AppBar(
